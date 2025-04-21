@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "633652294689",
+      "project_id": "catbrecho2025",
+      "storage_bucket": "catbrecho2025.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:633652294689:android:8107d4547888642e3ddf60",
+          "android_client_info": {
+            "package_name": "com.catbrecho.app"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "633652294689-lbm4bkb0982cjepkclaf9r0jc0qfcd0b.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA45N-Kibx-99U_hYvTvzcXcMSMSPLgMmY"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "633652294689-lbm4bkb0982cjepkclaf9r0jc0qfcd0b.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

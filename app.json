@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "cat_brechov1",
+    "slug": "cat_brechov1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon_cats",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icone_resgatados.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icone_resgatados.png",
+        "backgroundColor": "#ffffff",
+        "jsEngine": "hermes"
+      },
+      "package": "com.anonymous.cat_brechov1"
+    },
+    "web": {
+      "favicon": "./assets/favicon.adaptiveIcon"
+    }
+  }
+}
